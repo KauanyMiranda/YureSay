@@ -1,5 +1,4 @@
 ## Oii sou a Yure!!
-**Curso *Análise e Desenvolvimento de Sistemas***
 
 <picture>
   <source
