@@ -1,4 +1,4 @@
-## Oii sou a Yure!!
+## Oii sou a Kauany!!
 
 <picture>
   <source
